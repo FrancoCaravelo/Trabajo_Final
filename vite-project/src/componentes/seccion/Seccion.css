@@ -1,0 +1,13 @@
+.seccion {
+
+     width: 100vw;
+    text-align: center;
+    background-color: white;
+    
+    padding: 2rem
+}
+
+.seccion img{
+    width: 80%;
+    
+}

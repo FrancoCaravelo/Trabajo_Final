@@ -1,0 +1,33 @@
+/* Footer.css */
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+    margin-top: auto;
+    width: 100%;
+  }
+  
+  .footer h5 {
+    margin-bottom: 1rem; /* Margen inferior para los títulos */
+  }
+  
+  .footer p,
+  .footer a {
+    margin: 0; /* Eliminar márgenes de párrafos y enlaces */
+    line-height: 1.6; /* Aumentar la altura de línea para mejorar la legibilidad */
+  }
+  
+  .footer a {
+    color: white; /* Color de los enlaces */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Subrayado al pasar el ratón */
+  }
+  
+  .footer .list-unstyled {
+    padding-left: 0; /* Eliminar el relleno por defecto de la lista */
+    list-style: none; /* Eliminar los puntos de la lista */
+  }
+  

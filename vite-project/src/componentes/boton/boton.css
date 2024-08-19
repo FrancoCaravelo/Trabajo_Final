@@ -1,0 +1,13 @@
+.boton {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    margin: 5rem;
+
+}
+.hover:hover{
+    background-color: grey;
+}
